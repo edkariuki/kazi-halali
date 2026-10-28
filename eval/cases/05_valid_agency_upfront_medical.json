@@ -1,0 +1,8 @@
+{
+  "id": "05_valid_agency_upfront_medical",
+  "label": "scam",
+  "expected_verdict": "caution",
+  "input_text": "Mwangaza Overseas Recruitment Ltd is hiring heavy truck drivers for Qatar. Salary QAR 3,000 per month. Applicants must pay a medical fee of KES 6,000 before the contract is issued. Email jobs@mwangaza-recruit.co.ke.",
+  "source": "Synthetic.",
+  "notes": "Licensed (fictional) agency but money requested before a contract exists."
+}

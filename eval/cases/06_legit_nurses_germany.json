@@ -1,0 +1,8 @@
+{
+  "id": "06_legit_nurses_germany",
+  "label": "legit",
+  "expected_verdict": "likely_ok",
+  "input_text": "Upendo Global Placements Limited (NEA/PEA/0001) is recruiting registered nurses for hospitals in Germany. Requirements: BSc Nursing, 2 years' experience, German B1. The employer covers visa and flight costs; no fees are charged to candidates. Work visa sponsored. Contracts are attested at the Ministry of Labour before travel. Visit our office at Upendo House, Nairobi, or email careers@upendoplacements.co.ke.",
+  "source": "Synthetic.",
+  "notes": "Valid fictional agency, matching licence number, no fees, office, work visa."
+}

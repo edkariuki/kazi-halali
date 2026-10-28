@@ -1,0 +1,8 @@
+{
+  "id": "01_canada_farm_fee",
+  "label": "scam",
+  "expected_verdict": "danger",
+  "input_text": "🇨🇦 CANADA FARM JOBS 🇨🇦 Fruit pickers and general workers needed urgently! Salary CAD 3,200 per month, accommodation provided. Processing fee KSh 85,000 payable via M-Pesa to secure your slot. Limited slots, pay today! Travel next week. Contact Agent Peter on WhatsApp 0712 345 678.",
+  "source": "Synthetic. Modelled on the Canada job scam pattern described by the Labour Ministry (kenyans.co.ke/news/103720).",
+  "notes": "Unskilled job + fee + no agency + WhatsApp only + urgency."
+}

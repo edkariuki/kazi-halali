@@ -1,0 +1,8 @@
+{
+  "id": "04_russia_security",
+  "label": "scam",
+  "expected_verdict": "danger",
+  "input_text": "Well-paying jobs in Russia for young men! Security contractor positions, USD 3,000 per month, free training and accommodation. No experience needed. DM us on Telegram to apply.",
+  "source": "Synthetic. Pattern per government warnings on Russia war recruitment (allafrica.com/stories/202602060030).",
+  "notes": "Russia + military-style role + Telegram only."
+}

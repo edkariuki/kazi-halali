@@ -1,0 +1,8 @@
+{
+  "id": "02_lookalike_saudi_househelp",
+  "label": "scam",
+  "expected_verdict": "danger",
+  "input_text": "Upendo Global Placement Agency is recruiting house helps for Saudi Arabia. Mshahara SAR 1,500 kwa mwezi. Registration fee KES 15,000 and medical KES 7,500. Tuma kupitia M-Pesa. Our NEA licence: NEA/PEA/0001. Call 0798 111 222.",
+  "source": "Synthetic. Lookalike of the fictional licensed agency 'Upendo Global Placements Limited'.",
+  "notes": "Lookalike name, fees for domestic work, borrowed licence number."
+}

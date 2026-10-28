@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+.git
+**/node_modules
+web/.next
+web/out
+api/bin
+eval/
+*.log
+.DS_Store

@@ -1,0 +1,10 @@
+.env
+*.log
+/api/bin/
+/web/node_modules/
+/web/.next/
+/web/out/
+.DS_Store
+# real registry snapshots may contain contact details — keep them out of git
+/data/real/
+/eval/real/

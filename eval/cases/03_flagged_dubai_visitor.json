@@ -1,0 +1,8 @@
+{
+  "id": "03_flagged_dubai_visitor",
+  "label": "scam",
+  "expected_verdict": "danger",
+  "input_text": "Sunrise Dream Jobs Abroad Ltd: Security guards wanted in Dubai, UAE. You will travel on a visitor visa and we convert it to a work permit once you arrive. Salary AED 2,500. Commitment fee KES 40,000. Few slots remaining.",
+  "source": "Synthetic. Visitor-visa pattern per CS Mutua's warning (peopledaily.digital, Feb 2026). Agency is in the fictional flagged sample.",
+  "notes": "Flagged agency + visitor visa + upfront fee + urgency."
+}

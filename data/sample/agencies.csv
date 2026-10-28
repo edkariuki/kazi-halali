@@ -1,0 +1,6 @@
+name,nea_reg_no,status,source_url
+Upendo Global Placements Limited,NEA/PEA/0001,valid,https://example.invalid/sample
+Mwangaza Overseas Recruitment Ltd,NEA/PEA/0002,valid,https://example.invalid/sample
+Baraka Skilled Migration Agency Limited,NEA/PEA/0003,valid,https://example.invalid/sample
+Tumaini Workforce International Ltd,NEA/PEA/0004,under_verification,https://example.invalid/sample
+Pwani Career Links Limited,NEA/PEA/0005,expired,https://example.invalid/sample
